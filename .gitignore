@@ -1,0 +1,10 @@
+
+data/
+data_sample/
+habitat-lab/
+model_params/
+tmp/
+topo_vis/
+*.zip
+__pycache__/
+have_a_try_here.py

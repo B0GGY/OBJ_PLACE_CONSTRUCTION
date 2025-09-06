@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/data/scene_datasets/habitat-test-scenes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/versioned_data/habitat_test_scenes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/habitat-lab" vcs="Git" />
+  </component>
+</project>
