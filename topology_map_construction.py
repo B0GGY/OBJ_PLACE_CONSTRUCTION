@@ -357,4 +357,4 @@ if __name__ == '__main__':
         # print(agent_states)
         topology_mapper.input_img(rgb, agent_states, depth)
         total_frames += 1
-    topology_mapper.save_graph('topo_vis/test_graph.pkl')
+    # topology_mapper.save_graph('topo_vis/test_graph.pkl')

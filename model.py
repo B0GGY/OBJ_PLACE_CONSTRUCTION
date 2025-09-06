@@ -41,6 +41,7 @@ class PlaceNet(nn.Module):
         emb2 = self.resnet18(x2)
         emb_concat = torch.concat((emb1, emb2),dim=1)
         # output = F.softmax(self.new_layers(emb_concat), dim=1)
+
         output = self.new_layers(emb_concat)
 
         # print(emb1.shape)
